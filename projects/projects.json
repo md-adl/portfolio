@@ -40,8 +40,8 @@
       }
     },
     {
-      "name": "Clone Netlify",
-      "desc": "Basic Netlify Structure.",
+      "name": "Clone Spotify",
+      "desc": "Basic Spotify Structure.",
       "image": "netlify",
       "category": "basicweb",
       "links": {
